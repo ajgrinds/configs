@@ -1,1 +1,1 @@
-# steamCFG
+# configs
